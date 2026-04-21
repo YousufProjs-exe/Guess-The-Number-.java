@@ -3,3 +3,6 @@ This Java console game utilizes Scanner for user input. It generates a random nu
 
 # Important
 As many of peoples are liking this project the most, maybe a GUI version using JavaScript would be out soon.
+
+Thank You
+K.Yousuf
